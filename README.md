@@ -1,2 +1,3 @@
-# prime-ml-project-41u0
-Automated issue comment bot repository
+# Prime Ml Project 41U0
+
+Automated issue comment bot repository.
